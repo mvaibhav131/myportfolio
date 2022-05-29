@@ -26,5 +26,6 @@ see the github link:-->
 https://github.com/mvaibhav131/myportfolio
 
 
-<img width="954" alt="gfgdf" src=""https://user-images.githubusercontent.com/98808183/170854986-7a94b163-86bb-48f1-8c91-5c95e8913457.png"">
+![my portfolio image ](https://user-images.githubusercontent.com/98808183/170855388-cbf62321-e077-444d-b885-bbf8f3232148.png)
+
 
