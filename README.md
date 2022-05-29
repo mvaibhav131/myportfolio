@@ -4,13 +4,13 @@ My personal portfolio myportfolio which features some of my github projects as w
 
 This project was built using these technologies.
 
-React.js
-Node.js
-Express.js
-Html
-CSS3
-Bootstrap
-Material Ui
+React.js, 
+Node.js, 
+Express.js, 
+Html, 
+CSS3, 
+Bootstrap, 
+Material Ui, 
 
 Features
 📖 Multi-Page Layout
